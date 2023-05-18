@@ -7,5 +7,7 @@ Nesta aplicação, criei um botão que, ao ser clicado, faz aparecer uma lista d
 
 
 Ao clicar no botão, o conteúdo some: 
+
+
 ![image](https://github.com/danieledequi/lista-cores/assets/113129822/7648d5c4-ef1a-43b2-adfc-6925f44ce0b9)
 
